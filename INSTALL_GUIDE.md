@@ -31,13 +31,50 @@
 
 ## 安装方法
 
-### 方法 1: 从 GitHub 安装 (推荐)
+### 方法 1: 从 Claude Code 市场安装 (推荐给普通用户)
+
+#### 一步安装 ⚡
+
+在 Claude Code 中运行：
+
+```bash
+/plugin marketplace add Claudate/project-multilevel-index
+/plugin install project-multilevel-index
+```
+
+插件会自动：
+- ✅ 从 GitHub 下载最新版本
+- ✅ 安装到 `~/.claude/plugins/project-multilevel-index`
+- ✅ 启用所有命令和 Hook
+- ✅ 无需手动配置
+
+#### 验证安装
+
+```bash
+# 查看已安装插件
+/plugins list
+
+# 测试命令
+/project-multilevel-index:init-index --help
+```
+
+> **📌 版本要求**: 市场安装需要 Claude Code >= 1.0.0
+
+---
+
+### 方法 2: 从 GitHub 手动安装 (推荐给开发者)
+
+适用于：
+- 🛠️ 需要修改插件源代码
+- 🔧 开发自定义功能
+- 🐛 调试问题
+- 📝 贡献代码
 
 #### 步骤 1: 克隆仓库
 
 ```bash
 # 克隆到临时目录
-git clone https://github.com/YOUR_USERNAME/project-multilevel-index.git
+git clone https://github.com/Claudate/project-multilevel-index.git
 cd project-multilevel-index
 ```
 
@@ -78,31 +115,43 @@ ls ~/.claude/plugins/project-multilevel-index
 # skills/
 # commands/
 # hooks/
+# locales/
 # README.md
 # ...
 ```
 
 ---
 
-### 方法 2: 手动下载安装
+### 方法 3: 本地测试模式 (推荐用于插件开发)
 
-#### 步骤 1: 下载发布版本
-
-访问 [Releases 页面](https://github.com/YOUR_USERNAME/project-multilevel-index/releases)，下载最新版本的压缩包。
-
-#### 步骤 2: 解压并复制
+使用 `--plugin-dir` 参数进行本地测试，无需安装到全局：
 
 ```bash
-# 解压下载的文件
-unzip project-multilevel-index-v1.0.1.zip
+# 克隆仓库到任意目录
+git clone https://github.com/YOUR_USERNAME/project-multilevel-index.git
+cd project-multilevel-index
 
-# 复制到插件目录
-cp -r project-multilevel-index ~/.claude/plugins/
+# 直接以本地模式运行 Claude Code
+claude --plugin-dir .
+```
+
+**优势**:
+- 无需复制到 `~/.claude/plugins/`
+- 立即测试修改，无需重启
+- 适合插件开发和调试
+- 不影响全局插件配置
+
+**使用命令**:
+在本地模式下，所有命令都需要带命名空间前缀：
+```
+/project-multilevel-index:init-index
+/project-multilevel-index:update-index
+/project-multilevel-index:check-index
 ```
 
 ---
 
-### 方法 3: 使用符号链接 (开发者)
+### 方法 4: 使用符号链接 (开发者)
 
 如果你想同时开发和使用插件：
 
@@ -174,18 +223,22 @@ cat ~/.claude/plugins/project-multilevel-index/.claude-plugin/plugin.json | grep
 
 ### 步骤 3: 测试命令
 
+**重要**: 命令需要使用完整的命名空间格式：
+
 ```
-/init-index --help
+/project-multilevel-index:init-index
 ```
 
-如果看到命令帮助信息，说明安装成功！
+如果命令可用，说明安装成功！
+
+> **⚠️ 注意**: 不是 `/init-index`，而是 `/project-multilevel-index:init-index`（这是 Claude Code 插件的要求）
 
 ### 步骤 4: 运行测试项目
 
 ```bash
 cd ~/.claude/plugins/project-multilevel-index/test-project
 # 在 Claude Code 中运行
-/init-index
+/project-multilevel-index:init-index
 
 # 运行验证脚本
 ./verify.sh

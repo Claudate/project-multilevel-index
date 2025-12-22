@@ -60,9 +60,31 @@ Each File
 - This is a **Claude Code plugin**, not a standalone tool
 - Does NOT work with Cursor, Windsurf, or VSCode (yet)
 
-### 1. Install the Plugin
+---
 
-**From GitHub** (Recommended):
+### Method 1: Install from Claude Code Marketplace (Recommended)
+
+**The easiest way** - just two commands:
+
+```bash
+/plugin marketplace add Claudate/project-multilevel-index
+/plugin install project-multilevel-index
+```
+
+Done! The plugin will auto-download to `~/.claude/plugins/project-multilevel-index`
+
+**Verify Installation**:
+```bash
+/plugins list
+```
+
+You should see `project-multilevel-index` enabled ✅
+
+---
+
+### Method 2: Manual Installation from GitHub (For Developers)
+
+If you need to modify the plugin source code or contribute:
 
 ```bash
 git clone https://github.com/Claudate/project-multilevel-index.git
@@ -79,21 +101,19 @@ cp -r . ~/.claude/plugins/project-multilevel-index
 - Windows: `%USERPROFILE%\.claude\plugins\`
 - macOS/Linux: `~/.claude/plugins/`
 
-### 2. Enable the Plugin
+📖 **Detailed Guide**: [INSTALL_GUIDE.md](INSTALL_GUIDE.md) | **5-Minute Start**: [QUICKSTART.md](QUICKSTART.md)
 
-In Claude Code, run:
+---
 
-```
-/plugins enable project-multilevel-index
-```
-
-### 3. Initialize Your Project
+### Start Using - Initialize Your Project
 
 In your project root directory:
 
 ```
-/init-index
+/project-multilevel-index:init-index
 ```
+
+> **⚠️ Important**: Commands require the plugin namespace prefix `/project-multilevel-index:`, not just `/init-index`
 
 That's it! The plugin will:
 - ✅ Scan all code files (10 languages supported)
@@ -144,12 +164,14 @@ Generated dependency graphs render beautifully on:
 
 ## 🚀 Commands
 
-### `/init-index` - Initialize Index System
+> **💡 All commands require the namespace prefix**: `/project-multilevel-index:` (this is a Claude Code plugin requirement)
+
+### `/project-multilevel-index:init-index` - Initialize Index System
 
 First-time setup or full rebuild.
 
 ```
-/init-index
+/project-multilevel-index:init-index
 ```
 
 **What it does**:
@@ -159,12 +181,12 @@ First-time setup or full rebuild.
 4. Generates PROJECT_INDEX.md with Mermaid graph
 5. Outputs summary report
 
-### `/update-index` - Update Index
+### `/project-multilevel-index:update-index` - Update Index
 
 Manual refresh after changes.
 
 ```
-/update-index
+/project-multilevel-index:update-index
 ```
 
 **What it does**:
@@ -173,12 +195,12 @@ Manual refresh after changes.
 3. Updates affected indices
 4. Reports what changed
 
-### `/check-index` - Consistency Check
+### `/project-multilevel-index:check-index` - Consistency Check
 
 Verify index integrity.
 
 ```
-/check-index
+/project-multilevel-index:check-index
 ```
 
 **What it checks**:
@@ -188,12 +210,12 @@ Verify index integrity.
 4. ✅ Missing or orphaned files
 5. ✅ Structural compliance
 
-### `/set-language` - Switch UI Language
+### `/project-multilevel-index:set-language` - Switch UI Language
 
 Change interface language.
 
 ```
-/set-language
+/project-multilevel-index:set-language
 ```
 
 Choose between:
@@ -278,7 +300,7 @@ Full i18n support with dynamic language switching:
 
 **Switch Language**:
 ```
-/set-language
+/project-multilevel-index:set-language
 ```
 
 **Or manually** create `.claude/locale-config.json`:
@@ -320,12 +342,12 @@ Full i18n support with dynamic language switching:
 
 Run a manual update:
 ```
-/update-index
+/project-multilevel-index:update-index
 ```
 
 Or full rebuild:
 ```
-/init-index
+/project-multilevel-index:init-index
 ```
 
 ### Language Not Switching?

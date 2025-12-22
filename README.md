@@ -71,12 +71,32 @@ PROJECT_INDEX.md (根索引)
 
 ## 🚀 快速开始
 
-### 1. 安装插件
+### 方法 1: 从 Claude Code 市场安装（推荐）
 
-**从 GitHub 安装**（推荐）:
+**最简单的方式** - 只需两行命令：
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/project-multilevel-index.git
+/plugin marketplace add Claudate/project-multilevel-index
+/plugin install project-multilevel-index
+```
+
+完成！插件会自动下载到 `~/.claude/plugins/project-multilevel-index`
+
+**验证安装**:
+```bash
+/plugins list
+```
+
+应该看到 `project-multilevel-index` 已启用 ✅
+
+---
+
+### 方法 2: 从 GitHub 手动安装（开发者）
+
+如果您需要修改插件源代码或参与开发：
+
+```bash
+git clone https://github.com/Claudate/project-multilevel-index.git
 cd project-multilevel-index
 
 # Windows (PowerShell)
@@ -86,32 +106,23 @@ Copy-Item -Path . -Destination "$env:USERPROFILE\.claude\plugins\project-multile
 cp -r . ~/.claude/plugins/project-multilevel-index
 ```
 
-**或手动安装**：
-1. 下载 [最新版本](https://github.com/YOUR_USERNAME/project-multilevel-index/releases)
-2. 解压到 Claude Code 插件目录
-3. 重启 Claude Code
-
-📖 **详细安装指南**: [INSTALL_GUIDE.md](INSTALL_GUIDE.md)
-
 **插件目录位置**：
 - Windows: `%USERPROFILE%\.claude\plugins\`
 - macOS/Linux: `~/.claude/plugins/`
 
-### 2. 启用插件
+📖 **详细安装指南**: [INSTALL_GUIDE.md](INSTALL_GUIDE.md) | **5分钟上手**: [QUICKSTART.md](QUICKSTART.md)
 
-在 Claude Code 中运行：
+---
 
-```
-/plugins enable project-multilevel-index
-```
-
-### 3. 初始化索引
+### 开始使用 - 初始化索引
 
 在您的项目根目录运行：
 
 ```
-/init-index
+/project-multilevel-index:init-index
 ```
+
+> **⚠️ 重要**: 命令需要带插件命名空间前缀 `/project-multilevel-index:`，不是 `/init-index`
 
 Claude 会自动：
 1. 扫描项目中的所有代码文件
@@ -129,9 +140,12 @@ Claude 会自动：
 
 | 命令 | 功能 | 使用场景 |
 |------|------|---------|
-| `/init-index` | 初始化索引系统 | 首次使用或重建索引 |
-| `/update-index` | 手动更新索引 | 大量修改后同步索引 |
-| `/check-index` | 一致性检查 | 验证索引完整性 |
+| `/project-multilevel-index:init-index` | 初始化索引系统 | 首次使用或重建索引 |
+| `/project-multilevel-index:update-index` | 手动更新索引 | 大量修改后同步索引 |
+| `/project-multilevel-index:check-index` | 一致性检查 | 验证索引完整性 |
+| `/project-multilevel-index:set-language` | 切换语言 | 切换中英文界面 |
+
+> **💡 提示**: 所有命令都需要 `/project-multilevel-index:` 前缀（这是 Claude Code 插件的命名空间要求）
 
 ---
 
@@ -140,7 +154,7 @@ Claude 会自动：
 ### 示例 1：初始化新项目
 
 ```
-User: /init-index
+User: /project-multilevel-index:init-index
 
 Claude: 确认当前目录是 h:/my-project 吗？
 
@@ -184,7 +198,7 @@ Claude (静默):
 ### 示例 3：检查一致性
 
 ```
-User: /check-index
+User: /project-multilevel-index:check-index
 
 Claude:
 索引一致性检查报告
@@ -200,7 +214,7 @@ Claude:
 ✅ 索引结构: 符合规范
 
 建议:
-1. 运行 /update-index 补充缺失注释
+1. 运行 /project-multilevel-index:update-index 补充缺失注释
 2. 重构循环依赖
 ```
 
@@ -387,7 +401,7 @@ graph TB
 2. 修改的是否为代码文件？
 3. 是否为结构性变更？（仅修改函数内部不会触发）
 
-**解决**：手动运行 `/update-index`
+**解决**：手动运行 `/project-multilevel-index:update-index`
 
 ### 问题 2: 文件头注释格式不对
 
@@ -396,7 +410,7 @@ graph TB
 **解决**：
 1. 查看 `templates/` 目录下的标准模板
 2. 手动调整文件头格式
-3. 运行 `/update-index` 重新生成
+3. 运行 `/project-multilevel-index:update-index` 重新生成
 
 ### 问题 3: 依赖图过于复杂
 
@@ -445,4 +459,4 @@ MIT License - 自由使用、修改和分发
 
 ---
 
-**开始使用 `/init-index`，体验分形文档系统的魅力！** 🚀
+**开始使用 `/project-multilevel-index:init-index`，体验分形文档系统的魅力！** 🚀
