@@ -1,19 +1,27 @@
 {
-  "name": "project-multilevel-index",
-  "displayName": "Project Multi-level Index System",
-  "repository": {
-    "type": "github",
-    "owner": "Claudate",
-    "repo": "project-multilevel-index",
-    "branch": "master"
+  "name": "project-multilevel-index-marketplace",
+  "owner": {
+    "name": "Claude Code Community",
+    "email": "noreply@claudate.dev"
   },
-  "version": "1.0.2",
-  "minimumClaudeVersion": "1.0.0",
-  "categories": [
-    "Documentation",
-    "Productivity",
-    "Visualization"
-  ],
-  "featured": true,
-  "installMethod": "git-clone"
+  "metadata": {
+    "description": "Official marketplace for Project Multi-level Index plugin - a fractal self-referential documentation system inspired by GEB"
+  },
+  "plugins": [
+    {
+      "name": "project-multilevel-index",
+      "source": "./",
+      "description": "分形多级索引系统 - 受《哥德尔、埃舍尔、巴赫》启发的自指文档系统。自动维护 PROJECT_INDEX、FOLDER_INDEX 和文件头注释,实现代码与文档的完美同步。",
+      "version": "1.0.3",
+      "category": "documentation",
+      "tags": ["documentation", "index", "fractal", "self-reference", "dependency-graph", "mermaid", "GEB", "architecture", "auto-update", "i18n"],
+      "author": {
+        "name": "Claude Code Community",
+        "email": "noreply@claudate.dev"
+      },
+      "homepage": "https://github.com/Claudate/project-multilevel-index#readme",
+      "repository": "https://github.com/Claudate/project-multilevel-index",
+      "license": "MIT"
+    }
+  ]
 }
