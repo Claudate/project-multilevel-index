@@ -1,0 +1,19 @@
+{
+  "name": "project-multilevel-index",
+  "displayName": "Project Multi-level Index System",
+  "repository": {
+    "type": "github",
+    "owner": "Claudate",
+    "repo": "project-multilevel-index",
+    "branch": "master"
+  },
+  "version": "1.0.2",
+  "minimumClaudeVersion": "1.0.0",
+  "categories": [
+    "Documentation",
+    "Productivity",
+    "Visualization"
+  ],
+  "featured": true,
+  "installMethod": "git-clone"
+}

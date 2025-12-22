@@ -40,5 +40,29 @@
     "Documentation",
     "Productivity",
     "Visualization"
+  ],
+  "skills": [
+    {
+      "name": "project-multilevel-index",
+      "path": "./skills/project-multilevel-index/SKILL.md",
+      "description": "当用户请求\"初始化索引\"、\"更新文档\"、\"生成依赖图\"或检测到文件结构性变更时，使用此技能维护分形自指文档系统"
+    }
+  ],
+  "commands": [
+    {
+      "name": "init-index",
+      "path": "./commands/init-index.md",
+      "description": "初始化项目的分形多级索引系统"
+    },
+    {
+      "name": "update-index",
+      "path": "./commands/update-index.md",
+      "description": "手动更新项目索引系统"
+    },
+    {
+      "name": "check-index",
+      "path": "./commands/check-index.md",
+      "description": "检查项目索引系统的完整性和一致性"
+    }
   ]
 }
