@@ -6,13 +6,15 @@
 >
 > Making code projects self-referential, self-maintaining, and harmoniously elegant like a fugue
 
-[![Version](https://img.shields.io/badge/version-1.0.2-blue)](https://github.com/Claudate/project-multilevel-index/releases)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/Claudate/project-multilevel-index/releases)
 [![I18N](https://img.shields.io/badge/i18n-zh--CN%20%7C%20en--US-orange)](I18N_GUIDE.md)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-purple)](https://claude.ai/code)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**🔧 Claude Code Plugin** | [English](#) | [简体中文](README.md)
+**🔧 Claude Code Plugin** + 🎯 **Multi-Platform Examples** (Cursor/Windsurf/Kiro)
+
+[English](#) | [简体中文](README.md) | [📖 View Examples](examples/)
 
 </div>
 
@@ -47,6 +49,16 @@ Each File
 - **🔄 Self-Similarity**: Each level has the same index structure
 - **🪞 Self-Reference**: Each document declares "update me when I change"
 - **🎼 Polyphony**: Code and documentation echo each other; local changes affect the whole
+
+### 🌍 v2.0 New Features
+
+- **Complete I18N**: Support for Chinese/English language switching
+- **Modular Architecture**: SKILL.md streamlined from 1098 to 200 lines
+- **Independent Commands**: Each command has detailed implementation docs
+- **New Command**: `/set-language` for quick language switching
+- **Multi-Platform Examples**: Complete examples for Cursor/Windsurf/Kiro
+- **Use Cases**: 8 real-world application scenarios
+- **Demo Materials**: Complete demo recording guide
 
 ---
 
@@ -461,14 +473,23 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Important Notes
 
-### Platform Requirements
+### Platform Support
 
-- ✅ **Claude Code CLI** - Full support
-- ❌ **Cursor** - Not supported
-- ❌ **Windsurf** - Not supported
-- ❌ **VSCode** - Not supported (planned for v2.1)
+**Primary Platform - Claude Code**:
+- ✅ **Full Support**: https://claude.ai/code
+- ✅ **Automation**: Auto-updates via Hook system
+- 📦 **Installation**: `~/.claude/plugins/` (Claude Code plugin directory)
 
-This plugin requires Claude Code's Hook and Skill systems.
+**Other AI Editors - Experimental Support**:
+- 🔧 **Cursor**: Semi-automatic (manual AI prompting required) - [See Example](examples/cursor-example/)
+- 🔧 **Windsurf**: Semi-automatic (manual AI prompting required) - [See Example](examples/windsurf-example/)
+- 🔧 **Kiro**: Semi-automatic (manual AI prompting required) - [See Example](examples/kiro-example/)
+- ⏳ **VSCode**: Planned for v2.1
+
+**Notes**:
+- Claude Code is the only platform with full automation (via Hook system)
+- Other platforms use rule files and manual prompting for semi-automation
+- We provide complete example projects and configs, see [examples/](examples/) directory
 
 ### Performance
 

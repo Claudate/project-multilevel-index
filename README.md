@@ -6,13 +6,15 @@
 >
 > 让代码项目如赋格曲般自我指涉、自我维护、优雅和谐
 
-[![Version](https://img.shields.io/badge/version-1.0.2-blue)](https://github.com/Claudate/project-multilevel-index/releases)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/Claudate/project-multilevel-index/releases)
 [![I18N](https://img.shields.io/badge/i18n-zh--CN%20%7C%20en--US-orange)](I18N_GUIDE.md)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-purple)](https://claude.ai/code)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**🔧 Claude Code 插件** | [简体中文](#) | [English](README_EN.md)
+**🔧 Claude Code 插件** + 🎯 **多平台示例** (Cursor/Windsurf/Kiro)
+
+[简体中文](#) | [English](README_EN.md) | [📖 查看示例](examples/)
 
 </div>
 
@@ -20,13 +22,23 @@
 
 ## ⚠️ 重要说明
 
-**这是一个 Claude Code 插件项目，不是独立工具！**
+### 平台支持
 
-- ✅ **需要安装 Claude Code**: https://claude.ai/code
-- ❌ **不支持 Cursor、Windsurf、VSCode** (计划 v2.1 支持)
+**主平台 - Claude Code**:
+- ✅ **完整支持**: https://claude.ai/code
+- ✅ **自动化**: 通过 Hook 系统自动更新索引
 - 📦 **安装位置**: `~/.claude/plugins/` (Claude Code 插件目录)
 
----
+**其他 AI 编辑器 - 实验性支持**:
+- 🔧 **Cursor**: 半自动支持 (需手动提醒 AI) - [查看示例](examples/cursor-example/)
+- 🔧 **Windsurf**: 半自动支持 (需手动提醒 AI) - [查看示例](examples/windsurf-example/)
+- 🔧 **Kiro**: 半自动支持 (需手动提醒 AI) - [查看示例](examples/kiro-example/)
+- ⏳ **VSCode**: 计划 v2.1 支持
+
+**说明**:
+- Claude Code 是唯一提供完全自动化的平台 (通过 Hook 系统)
+- 其他平台需要通过规则文件和手动提醒实现半自动化
+- 我们提供了完整的示例项目和配置文件,详见 [examples/](examples/) 目录
 
 ---
 
@@ -66,6 +78,9 @@ PROJECT_INDEX.md (根索引)
 - **模块化架构**: SKILL.md 从 1098行 精简到 200行
 - **命令独立**: 每个命令都有详细实现文档
 - **新命令**: `/set-language` 快速切换语言
+- **多平台示例**: 提供 Cursor/Windsurf/Kiro 完整示例
+- **使用案例**: 8 个真实应用场景文档
+- **演示材料**: 完整的演示录制指南
 
 ---
 
