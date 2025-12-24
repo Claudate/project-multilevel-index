@@ -7,10 +7,10 @@
 > 让代码项目如赋格曲般自我指涉、自我维护、优雅和谐
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/Claudate/project-multilevel-index/releases)
-[![I18N](https://img.shields.io/badge/i18n-zh--CN%20%7C%20en--US-orange)](I18N_GUIDE.md)
+[![I18N](https://img.shields.io/badge/i18n-zh--CN%20%7C%20en--US-orange)](docs/development/I18N_GUIDE.md)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-purple)](https://claude.ai/code)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/development/CONTRIBUTING.md)
 
 **🌐 多平台代码文档自动化系统**
 
@@ -81,7 +81,7 @@ codex init
 ✅ Index system initialized successfully!
 ```
 
-📖 [CLI完整文档](cli/README.md) | [实现说明](CLI_IMPLEMENTATION.md)
+📖 [CLI完整文档](cli/README.md) | [实现说明](docs/development/CLI_IMPLEMENTATION.md)
 
 ---
 
@@ -104,7 +104,7 @@ codex init
 # 修改代码文件后会自动更新索引
 ```
 
-📖 [安装指南](INSTALL_GUIDE.md) | [快速上手](QUICKSTART.md)
+📖 [安装指南](docs/user-guide/INSTALL_GUIDE.md) | [快速上手](docs/user-guide/QUICKSTART.md)
 
 ---
 
@@ -118,7 +118,7 @@ codex init
 - ✅ Windsurf
 - ✅ Kiro
 
-📖 [技术方案](VSCODE_EXTENSION_PLAN.md) | [开发进度](IMPLEMENTATION_ROADMAP.md)
+📖 [技术方案](docs/development/VSCODE_EXTENSION_PLAN.md) | [开发进度](docs/development/IMPLEMENTATION_ROADMAP.md)
 
 ---
 
@@ -190,36 +190,38 @@ graph TB
 | 平台 | 自动化程度 | 状态 | 文档 |
 |------|-----------|------|------|
 | **CLI 工具** | 手动命令 | ✅ 已发布 | [CLI README](cli/README.md) |
-| **Claude Code** | 完全自动 | ✅ 已发布 | [安装指南](INSTALL_GUIDE.md) |
-| **VSCode Extension** | 完全自动 | 🚧 开发中 | [技术方案](VSCODE_EXTENSION_PLAN.md) |
+| **Claude Code** | 完全自动 | ✅ 已发布 | [安装指南](docs/user-guide/INSTALL_GUIDE.md) |
+| **VSCode Extension** | 完全自动 | 🚧 开发中 | [技术方案](docs/development/VSCODE_EXTENSION_PLAN.md) |
 | **规则文件方案** | 半自动 | ✅ 可用 | [Cursor](examples/cursor-example/) \| [Windsurf](examples/windsurf-example/) \| [Kiro](examples/kiro-example/) |
 
-📖 [平台详细对比](PLATFORM_SUPPORT.md)
+📖 [平台详细对比](docs/user-guide/PLATFORM_SUPPORT.md)
 
 ---
 
 ## 📖 文档导航
 
+📚 **[完整文档索引](docs/README.md)** - 查看所有分类文档
+
 ### 快速开始
-- [安装指南](INSTALL_GUIDE.md) - 详细的安装步骤
-- [快速上手](QUICKSTART.md) - 5分钟快速上手
-- [使用示例](EXAMPLES.md) - 完整的使用示例
+- [安装指南](docs/user-guide/INSTALL_GUIDE.md) - 详细的安装步骤
+- [快速上手](docs/user-guide/QUICKSTART.md) - 5分钟快速上手
+- [使用示例](docs/user-guide/EXAMPLES.md) - 完整的使用示例
 
 ### 核心文档
-- [命令参考](COMMANDS.md) - 所有命令的详细说明
-- [平台支持](PLATFORM_SUPPORT.md) - 各平台对比和选择建议
-- [文件头示例](FILE_HEADERS.md) - 10+ 种语言的文件头模板
+- [命令参考](docs/user-guide/COMMANDS.md) - 所有命令的详细说明
+- [平台支持](docs/user-guide/PLATFORM_SUPPORT.md) - 各平台对比和选择建议
+- [文件头示例](docs/user-guide/FILE_HEADERS.md) - 10+ 种语言的文件头模板
 
 ### 高级主题
-- [国际化指南](I18N_GUIDE.md) - 语言切换和配置
-- [使用案例](USE_CASES.md) - 8 个真实应用场景
-- [演示脚本](DEMO_SCRIPT.md) - 完整的演示录制指南
+- [国际化指南](docs/development/I18N_GUIDE.md) - 语言切换和配置
+- [使用案例](docs/user-guide/USE_CASES.md) - 8 个真实应用场景
+- [演示脚本](docs/planning/DEMO_SCRIPT.md) - 完整的演示录制指南
 
 ### 开发者
-- [贡献指南](CONTRIBUTING.md) - 如何参与贡献
-- [CLI 实现说明](CLI_IMPLEMENTATION.md) - CLI 工具技术细节
-- [VSCode 扩展计划](VSCODE_EXTENSION_PLAN.md) - VSCode 扩展技术方案
-- [开发路线图](IMPLEMENTATION_ROADMAP.md) - 整体开发进度
+- [贡献指南](docs/development/CONTRIBUTING.md) - 如何参与贡献
+- [CLI 实现说明](docs/development/CLI_IMPLEMENTATION.md) - CLI 工具技术细节
+- [VSCode 扩展计划](docs/development/VSCODE_EXTENSION_PLAN.md) - VSCode 扩展技术方案
+- [开发路线图](docs/development/IMPLEMENTATION_ROADMAP.md) - 整体开发进度
 
 ---
 
@@ -247,7 +249,7 @@ Pos: API层-用户控制器，处理用户HTTP请求
 """
 ```
 
-📖 [查看所有语言示例](FILE_HEADERS.md)
+📖 [查看所有语言示例](docs/user-guide/FILE_HEADERS.md)
 
 ---
 

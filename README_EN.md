@@ -7,10 +7,10 @@
 > Making code projects self-referential, self-maintaining, and harmoniously elegant like a fugue
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://github.com/Claudate/project-multilevel-index/releases)
-[![I18N](https://img.shields.io/badge/i18n-zh--CN%20%7C%20en--US-orange)](I18N_GUIDE.md)
+[![I18N](https://img.shields.io/badge/i18n-zh--CN%20%7C%20en--US-orange)](docs/development/I18N_GUIDE.md)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-purple)](https://claude.ai/code)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/development/CONTRIBUTING.md)
 
 **🌐 Multi-Platform Code Documentation Automation System**
 
@@ -81,7 +81,7 @@ codex init
 ✅ Index system initialized successfully!
 ```
 
-📖 [CLI Full Documentation](cli/README.md) | [Implementation Details](CLI_IMPLEMENTATION.md)
+📖 [CLI Full Documentation](cli/README.md) | [Implementation Details](docs/development/CLI_IMPLEMENTATION.md)
 
 ---
 
@@ -104,7 +104,7 @@ codex init
 # Indexes auto-update when you modify code
 ```
 
-📖 [Installation Guide](INSTALL_GUIDE.md) | [Quick Start](QUICKSTART.md)
+📖 [Installation Guide](docs/user-guide/INSTALL_GUIDE.md) | [Quick Start](docs/user-guide/QUICKSTART.md)
 
 ---
 
@@ -118,7 +118,7 @@ Supported platforms:
 - ✅ Windsurf
 - ✅ Kiro
 
-📖 [Technical Design](VSCODE_EXTENSION_PLAN.md) | [Development Roadmap](IMPLEMENTATION_ROADMAP.md)
+📖 [Technical Design](docs/development/VSCODE_EXTENSION_PLAN.md) | [Development Roadmap](docs/development/IMPLEMENTATION_ROADMAP.md)
 
 ---
 
@@ -136,7 +136,7 @@ Supported platforms:
 JavaScript/TypeScript • Python • Java/Kotlin • Rust • Go
 C/C++ • PHP • Ruby • Swift • C#
 
-📖 [File Header Examples](FILE_HEADERS.md)
+📖 [File Header Examples](docs/user-guide/FILE_HEADERS.md)
 
 ### 📊 Dependency Visualization
 
@@ -166,13 +166,13 @@ Auto-generate Mermaid dependency graphs, supporting:
 
 > **💡 Tip**: Claude Code commands require prefix `/project-multilevel-index:`
 
-📖 [Command Details](COMMANDS.md)
+📖 [Command Details](docs/user-guide/COMMANDS.md)
 
 ---
 
 ## 🎯 Use Cases
 
-Check **[USE_CASES.md](USE_CASES.md)** for 8 real-world application scenarios:
+Check **[USE_CASES.md](docs/user-guide/USE_CASES.md)** for 8 real-world application scenarios:
 
 1. **Open Source Project Documentation** - Lower contribution barrier
 2. **Enterprise Microservices** - Architecture visualization
@@ -190,36 +190,38 @@ Check **[USE_CASES.md](USE_CASES.md)** for 8 real-world application scenarios:
 | Platform | Automation | Status | Documentation |
 |----------|-----------|--------|--------------|
 | **CLI Tool** | Manual command | ✅ Released | [CLI README](cli/README.md) |
-| **Claude Code** | Full Auto | ✅ Released | [Install Guide](INSTALL_GUIDE.md) |
-| **VSCode Extension** | Full Auto | 🚧 In Dev | [Technical Design](VSCODE_EXTENSION_PLAN.md) |
+| **Claude Code** | Full Auto | ✅ Released | [Install Guide](docs/user-guide/INSTALL_GUIDE.md) |
+| **VSCode Extension** | Full Auto | 🚧 In Dev | [Technical Design](docs/development/VSCODE_EXTENSION_PLAN.md) |
 | **Rules-based** | Semi-Auto | ✅ Available | [Cursor](examples/cursor-example/) \| [Windsurf](examples/windsurf-example/) \| [Kiro](examples/kiro-example/) |
 
-📖 [Platform Comparison](PLATFORM_SUPPORT.md)
+📖 [Platform Comparison](docs/user-guide/PLATFORM_SUPPORT.md)
 
 ---
 
 ## 📖 Documentation Navigation
 
+📚 **[Complete Documentation Index](docs/README.md)** - View all categorized documentation
+
 ### Quick Start
-- [Installation Guide](INSTALL_GUIDE.md) - Detailed installation steps
-- [Quick Start](QUICKSTART.md) - Get started in 5 minutes
-- [Usage Examples](EXAMPLES.md) - Complete usage examples
+- [Installation Guide](docs/user-guide/INSTALL_GUIDE.md) - Detailed installation steps
+- [Quick Start](docs/user-guide/QUICKSTART.md) - Get started in 5 minutes
+- [Usage Examples](docs/user-guide/EXAMPLES.md) - Complete usage examples
 
 ### Core Documentation
-- [Command Reference](COMMANDS.md) - Detailed command descriptions
-- [Platform Support](PLATFORM_SUPPORT.md) - Platform comparison and selection
-- [File Header Examples](FILE_HEADERS.md) - File header templates for 10+ languages
+- [Command Reference](docs/user-guide/COMMANDS.md) - Detailed command descriptions
+- [Platform Support](docs/user-guide/PLATFORM_SUPPORT.md) - Platform comparison and selection
+- [File Header Examples](docs/user-guide/FILE_HEADERS.md) - File header templates for 10+ languages
 
 ### Advanced Topics
-- [I18N Guide](I18N_GUIDE.md) - Language switching and configuration
-- [Use Cases](USE_CASES.md) - 8 real-world application scenarios
-- [Demo Script](DEMO_SCRIPT.md) - Complete demo recording guide
+- [I18N Guide](docs/development/I18N_GUIDE.md) - Language switching and configuration
+- [Use Cases](docs/user-guide/USE_CASES.md) - 8 real-world application scenarios
+- [Demo Script](docs/planning/DEMO_SCRIPT.md) - Complete demo recording guide
 
 ### Developers
-- [Contributing Guide](CONTRIBUTING.md) - How to contribute
-- [CLI Implementation](CLI_IMPLEMENTATION.md) - CLI tool technical details
-- [VSCode Extension Plan](VSCODE_EXTENSION_PLAN.md) - VSCode extension technical design
-- [Development Roadmap](IMPLEMENTATION_ROADMAP.md) - Overall development progress
+- [Contributing Guide](docs/development/CONTRIBUTING.md) - How to contribute
+- [CLI Implementation](docs/development/CLI_IMPLEMENTATION.md) - CLI tool technical details
+- [VSCode Extension Plan](docs/development/VSCODE_EXTENSION_PLAN.md) - VSCode extension technical design
+- [Development Roadmap](docs/development/IMPLEMENTATION_ROADMAP.md) - Overall development progress
 
 ---
 
@@ -247,7 +249,7 @@ This comment auto-updates when file is modified
 """
 ```
 
-📖 [View All Language Examples](FILE_HEADERS.md)
+📖 [View All Language Examples](docs/user-guide/FILE_HEADERS.md)
 
 ---
 
@@ -285,7 +287,7 @@ Scan the QR code to join our WeChat group:
 
 - 📋 [Issues](https://github.com/Claudate/project-multilevel-index/issues) - Report issues
 - 💬 [Discussions](https://github.com/Claudate/project-multilevel-index/discussions) - Q&A and discussions
-- 🤝 [Contributing](CONTRIBUTING.md) - Contribution guidelines
+- 🤝 [Contributing](docs/development/CONTRIBUTING.md) - Contribution guidelines
 
 ---
 
