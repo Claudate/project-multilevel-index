@@ -1,0 +1,28 @@
+{
+  "name": "project-multilevel-index",
+  "version": "2.0.0",
+  "description": "GEB-inspired fractal self-referential documentation system",
+  "keywords": [
+    "documentation",
+    "indexing",
+    "fractal",
+    "self-referential",
+    "claude-code",
+    "ai-editor"
+  ],
+  "author": "Claudate",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Claudate/project-multilevel-index.git"
+  },
+  "scripts": {
+    "generate:configs": "node scripts/generate-platform-configs.js",
+    "validate:configs": "node scripts/validate-configs.js",
+    "test": "echo 'No tests yet'"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
