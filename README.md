@@ -531,6 +531,28 @@ graph TB
 
 ---
 
+## 💬 社区与支持
+
+### 微信交流群
+
+扫描二维码加入微信群,与其他用户交流使用经验:
+
+<div align="center">
+
+<img src="public/wechat-group-qrcode.png" width="200" alt="微信群二维码" />
+
+</div>
+
+查看更多社区资源: [COMMUNITY.md](COMMUNITY.md)
+
+### GitHub
+
+- 📋 [Issues](https://github.com/Claudate/project-multilevel-index/issues) - 报告问题和功能建议
+- 💬 [Discussions](https://github.com/Claudate/project-multilevel-index/discussions) - 讨论和交流
+- 🤝 [Contributing](CONTRIBUTING.md) - 贡献指南
+
+---
+
 ## 📜 许可证
 
 MIT License - 自由使用、修改和分发

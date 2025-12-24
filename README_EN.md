@@ -513,11 +513,25 @@ Files >500KB are skipped for performance. Adjust in future versions via config.
 
 ---
 
-## 📞 Support
+## 💬 Community & Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/Claudate/project-multilevel-index/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/Claudate/project-multilevel-index/discussions)
-- **Questions**: Open a discussion or issue
+### WeChat Group
+
+Scan the QR code to join our WeChat group and connect with other users:
+
+<div align="center">
+
+<img src="public/wechat-group-qrcode.png" width="200" alt="WeChat Group QR Code" />
+
+</div>
+
+For more community resources, see: [COMMUNITY.md](COMMUNITY.md)
+
+### GitHub
+
+- 📋 [Issues](https://github.com/Claudate/project-multilevel-index/issues) - Bug reports and feature requests
+- 💬 [Discussions](https://github.com/Claudate/project-multilevel-index/discussions) - Q&A and discussions
+- 🤝 [Contributing](CONTRIBUTING.md) - Contribution guidelines
 
 ---
 
