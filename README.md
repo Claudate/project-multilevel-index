@@ -104,7 +104,26 @@ PROJECT_INDEX.md (根索引)
 
 ## 🚀 快速开始
 
-### 方法 1: 从 Claude Code 市场安装（推荐）
+### 方法 1: CLI 工具（适用于所有平台）
+
+**独立命令行工具** - 适用于任何项目和 CI/CD:
+
+```bash
+# 从源码安装
+git clone https://github.com/Claudate/project-multilevel-index.git
+cd project-multilevel-index/cli
+npm install && npm run build && npm link
+
+# 在项目中使用
+cd /your/project
+codex init
+```
+
+查看 **[CLI 文档](cli/README.md)** 了解更多用法。
+
+---
+
+### 方法 2: 从 Claude Code 市场安装（推荐用于 Claude Code）
 
 **最简单的方式** - 只需两行命令：
 
@@ -124,7 +143,7 @@ PROJECT_INDEX.md (根索引)
 
 ---
 
-### 方法 2: 从 GitHub 手动安装（开发者）
+### 方法 3: 从 GitHub 手动安装（开发者）
 
 如果您需要修改插件源代码或参与开发：
 
