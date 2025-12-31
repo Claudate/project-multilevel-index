@@ -159,10 +159,10 @@ Auto-generate Mermaid dependency graphs, supporting:
 
 | Command | Function |
 |---------|----------|
-| [`init-index`](COMMANDS.md#1-init-index---initialize-index-system) | Initialize index system |
-| [`update-index`](COMMANDS.md#2-update-index---update-index) | Manual index update |
-| [`check-index`](COMMANDS.md#3-check-index---consistency-check) | Consistency check |
-| [`set-language`](COMMANDS.md#4-set-language---switch-language) | Switch language |
+| [`init-index`](docs/user-guide/COMMANDS.md#1-init-index---initialize-index-system) | Initialize index system |
+| [`update-index`](docs/user-guide/COMMANDS.md#2-update-index---update-index) | Manual index update |
+| [`check-index`](docs/user-guide/COMMANDS.md#3-check-index---consistency-check) | Consistency check |
+| [`set-language`](docs/user-guide/COMMANDS.md#4-set-language---switch-language) | Switch language |
 
 > **💡 Tip**: Claude Code commands require prefix `/project-multilevel-index:`
 
