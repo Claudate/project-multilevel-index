@@ -281,7 +281,7 @@ Scan the QR code to join our WeChat group:
 
 </div>
 
-📖 [More Community Resources](COMMUNITY.md)
+📖 [More Community Resources](docs/COMMUNITY.md)
 
 ### GitHub
 

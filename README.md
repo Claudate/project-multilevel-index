@@ -138,7 +138,7 @@ codex init
 JavaScript/TypeScript • Python • Java/Kotlin • Rust • Go
 C/C++ • PHP • Ruby • Swift • C#
 
-📖 [文件头示例](FILE_HEADERS.md)
+📖 [文件头示例](docs/user-guide/FILE_HEADERS.md)
 
 ### 📊 可视化依赖
 
@@ -174,7 +174,7 @@ graph TB
 
 ## 🎯 适用场景
 
-查看 **[USE_CASES.md](USE_CASES.md)** 了解 8 个真实应用场景：
+查看 **[USE_CASES.md](docs/user-guide/USE_CASES.md)** 了解 8 个真实应用场景：
 
 1. **开源项目文档维护** - 降低贡献门槛
 2. **企业级微服务项目** - 架构可视化
@@ -326,13 +326,13 @@ Pos: API层-用户控制器，处理用户HTTP请求
 
 </div>
 
-📖 [更多社区资源](COMMUNITY.md)
+📖 [更多社区资源](docs/COMMUNITY.md)
 
 ### GitHub
 
 - 📋 [Issues](https://github.com/Claudate/project-multilevel-index/issues) - 报告问题
 - 💬 [Discussions](https://github.com/Claudate/project-multilevel-index/discussions) - 讨论交流
-- 🤝 [Contributing](CONTRIBUTING.md) - 贡献指南
+- 🤝 [Contributing](docs/development/CONTRIBUTING.md) - 贡献指南
 
 ---
 
