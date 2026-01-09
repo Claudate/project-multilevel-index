@@ -17,7 +17,6 @@
     "url": "https://github.com/Claudate/project-multilevel-index/issues"
   },
   "homepage": "https://github.com/Claudate/project-multilevel-index#readme",
-  "icon": "icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },
