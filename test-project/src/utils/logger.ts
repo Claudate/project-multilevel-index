@@ -1,12 +1,9 @@
 /**
- * Input: None (utility class)
- * Output: Logger class with static methods (info, error, warn)
- * Pos: Utility Layer - Logging utility, provides console logging functionality
+ * Input: None
+ * Output: Logger
+ * Pos: Utility Layer - Helper functions
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/utils/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 export class Logger {

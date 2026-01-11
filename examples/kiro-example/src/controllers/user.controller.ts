@@ -1,12 +1,9 @@
 /**
- * Input: UserService from services/user.service, Logger from utils/logger
- * Output: UserController class, HTTP handlers for user routes
- * Pos: API Layer - User HTTP controller, handles user-related requests
+ * Input: ../services/user.service, ../utils/logger
+ * Output: UserController
+ * Pos: API Layer - HTTP request handler
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/controllers/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import { UserService } from '../services/user.service';

@@ -1,12 +1,9 @@
 /**
- * Input: User from models/User, Logger from utils/logger
- * Output: AuthService class, login/logout/validateToken methods
- * Pos: Service Layer - Authentication service, handles auth logic
+ * Input: ../models/User, ../utils/logger
+ * Output: AuthService
+ * Pos: Service Layer - Business logic
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/services/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import { User } from '../models/User';

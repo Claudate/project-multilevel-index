@@ -1,11 +1,9 @@
 ## 📁 utils/
 
-**架构说明** (3行):
-- 工具层,提供通用工具函数和类
-- 不依赖业务逻辑
-- 被所有其他层使用
+**Architecture**:
+- Utility functions and helpers
 
-**文件清单**:
-- `logger.ts` - 日志工具,提供结构化日志记录
+**Files**:
+- `logger.ts` - Exports Logger
 
-🔄 **自指**: 当此文件夹中的文件变化时,更新本索引和 PROJECT_INDEX.md
+🔄 **Self-reference**: When files in this folder change, update this index and PROJECT_INDEX.md

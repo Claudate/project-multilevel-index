@@ -1,12 +1,9 @@
 /**
- * Input: UserService from ../services/user.service; CreateUserDTO from ../models/User; Logger from ../utils/logger
- * Output: UserController class, handleCreate/handleGetAll methods
- * Pos: Controller Layer - User HTTP controller, handles user-related requests
+ * Input: ../services/user.service, ../models/User, ../utils/logger
+ * Output: UserController
+ * Pos: API Layer - HTTP request handler
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/controllers/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import { UserService } from '../services/user.service';

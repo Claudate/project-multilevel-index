@@ -1,11 +1,9 @@
 ## 📁 models/
 
-**架构说明** (3行):
-- 数据模型层,定义领域实体和DTO
-- 不依赖其他业务模块
-- 被服务层和控制层使用
+**Architecture**:
+- Data models and schemas
 
-**文件清单**:
-- `User.ts` - 用户领域模型,定义User和CreateUserDTO接口
+**Files**:
+- `User.ts` - Exports User and 1 more
 
-🔄 **自指**: 当此文件夹中的文件变化时,更新本索引和 PROJECT_INDEX.md
+🔄 **Self-reference**: When files in this folder change, update this index and PROJECT_INDEX.md

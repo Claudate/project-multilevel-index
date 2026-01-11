@@ -14,7 +14,7 @@
 
 **🌐 Multi-Platform Code Documentation Automation System**
 
-CLI Tool + Claude Code Plugin + VSCode Extension (In Development)
+CLI Tool + Claude Code Plugin + VSCode Extension
 
 [English](#) | [简体中文](README.md) | [📖 Documentation](#-documentation-navigation)
 
@@ -108,9 +108,9 @@ codex init
 
 ---
 
-### Method 3: VSCode Extension (In Development)
+### Method 3: VSCode Extension
 
-**Full automation solution** - Expected release: 2026-01-10
+**Full automation solution** - Development completed, marketplace release coming soon
 
 Supported platforms:
 - ✅ VSCode
@@ -118,7 +118,7 @@ Supported platforms:
 - ✅ Windsurf
 - ✅ Kiro
 
-📖 [Technical Design](docs/development/VSCODE_EXTENSION_PLAN.md) | [Development Roadmap](docs/development/IMPLEMENTATION_ROADMAP.md)
+📖 [User Guide (Chinese)](vscode-extension/USER_GUIDE.md) | [English User Guide](vscode-extension/USER_GUIDE_EN.md) | [Installation Guide](vscode-extension/MANUAL_INSTALL_GUIDE.md)
 
 ---
 
@@ -191,7 +191,7 @@ Check **[USE_CASES.md](docs/user-guide/USE_CASES.md)** for 8 real-world applicat
 |----------|-----------|--------|--------------|
 | **CLI Tool** | Manual command | ✅ Released | [CLI README](cli/README.md) |
 | **Claude Code** | Full Auto | ✅ Released | [Install Guide](docs/user-guide/INSTALL_GUIDE.md) |
-| **VSCode Extension** | Full Auto | 🚧 In Dev | [Technical Design](docs/development/VSCODE_EXTENSION_PLAN.md) |
+| **VSCode Extension** | Full Auto | ✅ Completed | [User Guide (CN)](vscode-extension/USER_GUIDE.md) \| [User Guide (EN)](vscode-extension/USER_GUIDE_EN.md) |
 | **Rules-based** | Semi-Auto | ✅ Available | [Cursor](examples/cursor-example/) \| [Windsurf](examples/windsurf-example/) \| [Kiro](examples/kiro-example/) |
 
 📖 [Platform Comparison](docs/user-guide/PLATFORM_SUPPORT.md)

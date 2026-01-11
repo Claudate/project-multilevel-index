@@ -1,6 +1,9 @@
 /**
- * Code analyzer for extracting dependencies and exports
- * Standalone version for CLI (VSCode-independent)
+ * Input: fs/promises, path, @babel/parser, @babel/traverse
+ * Output: FileAnalysis, Analyzer
+ * Pos: Core - Fundamental logic
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as fs from 'fs/promises';

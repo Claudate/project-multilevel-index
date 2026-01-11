@@ -1,5 +1,9 @@
 /**
- * File scanner utility
+ * Input: glob, fs/promises, path, ignore
+ * Output: ScanOptions, FileScanner
+ * Pos: Utility Layer - Helper functions
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import { glob } from 'glob';

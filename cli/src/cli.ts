@@ -1,5 +1,2357 @@
 #!/usr/bin/env node
 /**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
+ * Input: commander, chalk, ./commands/init.js
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
+ */
+
+/**
  * CLI entry point for codex
  */
 

@@ -1,12 +1,9 @@
 /**
- * Input: None (Data model definition)
- * Output: User interface, CreateUserDTO interface
- * Pos: Data Layer - User domain model, defines user structure
+ * Input: None
+ * Output: User, CreateUserDTO
+ * Pos: Data Layer - Data models
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/models/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 export interface User {

@@ -16,7 +16,7 @@
 
 **🌐 多平台代码文档自动化系统**
 
-CLI工具 + Claude Code插件 + VSCode扩展(开发中)
+CLI工具 + Claude Code插件 + VSCode扩展
 
 [简体中文](#) | [English](README_EN.md) | [📖 文档导航](#-文档导航)
 
@@ -110,9 +110,9 @@ codex init
 
 ---
 
-### 方法 3: VSCode 扩展（开发中）
+### 方法 3: VSCode 扩展
 
-**完全自动化方案** - 预计 2026-01-10 发布
+**完全自动化方案** - 已完成开发，即将发布到市场
 
 支持平台：
 - ✅ VSCode
@@ -120,7 +120,7 @@ codex init
 - ✅ Windsurf
 - ✅ Kiro
 
-📖 [技术方案](docs/development/VSCODE_EXTENSION_PLAN.md) | [开发进度](docs/development/IMPLEMENTATION_ROADMAP.md)
+📖 [中文用户指南](vscode-extension/USER_GUIDE.md) | [English User Guide](vscode-extension/USER_GUIDE_EN.md) | [安装指南](vscode-extension/MANUAL_INSTALL_GUIDE.md)
 
 ---
 
@@ -193,7 +193,7 @@ graph TB
 |------|-----------|------|------|
 | **CLI 工具** | 手动命令 | ✅ 已发布 | [CLI README](cli/README.md) |
 | **Claude Code** | 完全自动 | ✅ 已发布 | [安装指南](docs/user-guide/INSTALL_GUIDE.md) |
-| **VSCode Extension** | 完全自动 | 🚧 开发中 | [技术方案](docs/development/VSCODE_EXTENSION_PLAN.md) |
+| **VSCode Extension** | 完全自动 | ✅ 已完成 | [用户指南](vscode-extension/USER_GUIDE.md) \| [User Guide (EN)](vscode-extension/USER_GUIDE_EN.md) |
 | **规则文件方案** | 半自动 | ✅ 可用 | [Cursor](examples/cursor-example/) \| [Windsurf](examples/windsurf-example/) \| [Kiro](examples/kiro-example/) |
 
 📖 [平台详细对比](docs/user-guide/PLATFORM_SUPPORT.md)

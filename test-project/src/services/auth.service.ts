@@ -1,12 +1,9 @@
 /**
- * Input: UserService from ./user.service; Logger from ../utils/logger
- * Output: AuthService class, login/validateToken methods
- * Pos: Service Layer - Authentication service, handles login and token validation
+ * Input: ./user.service, ../utils/logger
+ * Output: AuthService
+ * Pos: Service Layer - Business logic
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/services/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import { UserService } from './user.service';

@@ -1,12 +1,10 @@
 ## 📁 services/
 
-**架构说明** (3行):
-- 业务服务层,处理业务逻辑
-- 调用数据层和工具层
-- 被控制层调用
+**Architecture**:
+- Business logic layer
 
-**文件清单**:
-- `user.service.ts` - 用户管理服务,处理用户CRUD操作
-- `auth.service.ts` - 认证服务,处理登录登出和令牌验证
+**Files**:
+- `auth.service.ts` - Exports AuthService
+- `user.service.ts` - Exports UserService
 
-🔄 **自指**: 当此文件夹中的文件变化时,更新本索引和 PROJECT_INDEX.md
+🔄 **Self-reference**: When files in this folder change, update this index and PROJECT_INDEX.md

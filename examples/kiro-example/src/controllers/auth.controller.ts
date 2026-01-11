@@ -1,12 +1,9 @@
 /**
- * Input: AuthService from services/auth.service, Logger from utils/logger
- * Output: AuthController class, HTTP handlers for auth routes
- * Pos: API Layer - Authentication HTTP controller, handles auth requests
+ * Input: ../services/auth.service, ../utils/logger
+ * Output: AuthController
+ * Pos: API Layer - HTTP request handler
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/controllers/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import { AuthService } from '../services/auth.service';

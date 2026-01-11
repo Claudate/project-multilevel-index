@@ -1,5 +1,9 @@
 /**
- * Initialize index system command
+ * Input: fs/promises, path, ora, chalk, ../core/analyzer.js, ../core/generator.js, ../utils/file-scanner.js
+ * Output: InitOptions, initCommand
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as fs from 'fs/promises';

@@ -1,6 +1,9 @@
 /**
- * Header and index generator
- * Standalone version for CLI (VSCode-independent)
+ * Input: path, ./analyzer.js
+ * Output: Generator
+ * Pos: Core - Fundamental logic
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as path from 'path';

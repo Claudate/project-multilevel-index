@@ -1,12 +1,9 @@
 /**
- * Input: User, CreateUserDTO from ../models/User; Logger from ../utils/logger
- * Output: UserService class (createUser/findById/findAll methods), EmailService class (sendWelcomeEmail method)
- * Pos: Service Layer - User domain service with email notification capability
+ * Input: ../models/User, ../utils/logger
+ * Output: UserService
+ * Pos: Service Layer - Business logic
  *
- * 🔄 Self-reference: When this file changes, update:
- * - This file header
- * - src/services/FOLDER_INDEX.md
- * - PROJECT_INDEX.md
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import { User, CreateUserDTO } from '../models/User';
