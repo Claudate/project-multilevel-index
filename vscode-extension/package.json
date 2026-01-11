@@ -2,10 +2,11 @@
   "name": "project-multilevel-index",
   "displayName": "Project Multilevel Index",
   "description": "Fractal self-referential documentation system - Auto-maintains code indexes, file headers & dependency graphs",
-  "version": "0.1.0",
-  "publisher": "Claudate",
+  "version": "0.2.0",
+  "publisher": "SwiftScript",
+  "icon": "icon.png",
   "author": {
-    "name": "Claudate",
+    "name": "SwiftScript",
     "url": "https://github.com/Claudate"
   },
   "license": "MIT",
