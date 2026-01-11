@@ -1,5 +1,9 @@
 /**
- * File filter for excluding unwanted files
+ * Input: vscode, path, ../core/config
+ * Output: Filter
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

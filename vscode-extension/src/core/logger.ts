@@ -1,5 +1,9 @@
 /**
- * Logger utility for extension
+ * Input: vscode
+ * Output: Logger
+ * Pos: Core - Fundamental logic
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

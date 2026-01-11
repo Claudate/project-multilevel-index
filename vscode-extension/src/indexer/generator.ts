@@ -1,5 +1,9 @@
 /**
- * Header and index generator
+ * Input: vscode, path, ./analyzer, ../core/logger
+ * Output: Generator
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

@@ -1,5 +1,9 @@
 /**
- * Index updater - handles updating file headers and indexes
+ * Input: vscode, fs/promises, path, ../core/logger, ./analyzer, ./generator
+ * Output: Updater
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

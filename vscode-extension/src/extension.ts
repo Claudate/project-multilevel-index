@@ -1,6 +1,9 @@
 /**
- * VSCode Extension Entry Point
- * Project Multilevel Index - Fractal Documentation System
+ * Input: vscode, fs/promises, path, ./watcher/fileWatcher, ./indexer/updater, ./core/config, ./core/logger
+ * Output: activate, deactivate
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

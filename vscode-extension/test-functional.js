@@ -1,6 +1,9 @@
 /**
- * Functional Test Script
- * Simulates the extension's core functionality
+ * Input: fs, path
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 const fs = require('fs').promises;

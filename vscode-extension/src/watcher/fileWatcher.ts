@@ -1,5 +1,9 @@
 /**
- * File watcher for detecting code changes
+ * Input: vscode, ../core/config, ./filter, ./detector, ../core/logger
+ * Output: FileWatcher
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

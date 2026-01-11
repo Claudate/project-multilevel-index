@@ -1,5 +1,9 @@
 /**
- * Change detector for identifying structural changes
+ * Input: vscode, fs/promises
+ * Output: ChangeDetector
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

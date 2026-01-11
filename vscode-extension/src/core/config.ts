@@ -1,5 +1,9 @@
 /**
- * Configuration management
+ * Input: vscode, fs/promises, path
+ * Output: IndexConfig, Config
+ * Pos: Core - Fundamental logic
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

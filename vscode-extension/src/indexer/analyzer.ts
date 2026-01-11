@@ -1,5 +1,9 @@
 /**
- * Code analyzer for extracting dependencies and exports
+ * Input: vscode, fs/promises, path, @babel/parser, @babel/traverse, ../core/logger
+ * Output: FileAnalysis, Analyzer
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 import * as vscode from 'vscode';

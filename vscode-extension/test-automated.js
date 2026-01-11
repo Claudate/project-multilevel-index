@@ -1,6 +1,9 @@
 /**
- * Automated Test Script for VSCode Extension
- * Tests core functionality without GUI interaction
+ * Input: fs, path
+ * Output: None
+ * Pos: Application code
+ *
+ * 🔄 Self-reference: When this file changes, update this header
  */
 
 const fs = require('fs').promises;
