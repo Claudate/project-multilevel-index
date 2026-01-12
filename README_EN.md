@@ -112,7 +112,7 @@ codex init
 
 **Full automation solution** - Released on VSCode Marketplace
 
-**Extension Name**: `Project Multi-level Index` (Publisher: SwiftScript)
+**Extension Name**: `SwiftScript`
 
 **Installation**: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=SwiftScript.project-multilevel-index)
 
