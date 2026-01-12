@@ -110,7 +110,11 @@ codex init
 
 ### Method 3: VSCode Extension
 
-**Full automation solution** - Development completed, marketplace release coming soon
+**Full automation solution** - Released on VSCode Marketplace
+
+**Extension Name**: `Project Multi-level Index`
+
+**Installation**: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=SwiftScript.project-multilevel-index)
 
 Supported platforms:
 - ✅ VSCode
@@ -191,7 +195,7 @@ Check **[USE_CASES.md](docs/user-guide/USE_CASES.md)** for 8 real-world applicat
 |----------|-----------|--------|--------------|
 | **CLI Tool** | Manual command | ✅ Released | [CLI README](cli/README.md) |
 | **Claude Code** | Full Auto | ✅ Released | [Install Guide](docs/user-guide/INSTALL_GUIDE.md) |
-| **VSCode Extension** | Full Auto | ✅ Completed | [User Guide (CN)](vscode-extension/USER_GUIDE.md) \| [User Guide (EN)](vscode-extension/USER_GUIDE_EN.md) |
+| **VSCode Extension** | Full Auto | ✅ Released | [User Guide (CN)](vscode-extension/USER_GUIDE.md) \| [User Guide (EN)](vscode-extension/USER_GUIDE_EN.md) |
 | **Rules-based** | Semi-Auto | ✅ Available | [Cursor](examples/cursor-example/) \| [Windsurf](examples/windsurf-example/) \| [Kiro](examples/kiro-example/) |
 
 📖 [Platform Comparison](docs/user-guide/PLATFORM_SUPPORT.md)

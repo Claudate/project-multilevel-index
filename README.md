@@ -112,7 +112,11 @@ codex init
 
 ### 方法 3: VSCode 扩展
 
-**完全自动化方案** - 已完成开发，即将发布到市场
+**完全自动化方案** - 已发布到 VSCode 市场
+
+**插件名称**: `Project Multi-level Index`
+
+**安装地址**: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=SwiftScript.project-multilevel-index)
 
 支持平台：
 - ✅ VSCode
@@ -193,7 +197,7 @@ graph TB
 |------|-----------|------|------|
 | **CLI 工具** | 手动命令 | ✅ 已发布 | [CLI README](cli/README.md) |
 | **Claude Code** | 完全自动 | ✅ 已发布 | [安装指南](docs/user-guide/INSTALL_GUIDE.md) |
-| **VSCode Extension** | 完全自动 | ✅ 已完成 | [用户指南](vscode-extension/USER_GUIDE.md) \| [User Guide (EN)](vscode-extension/USER_GUIDE_EN.md) |
+| **VSCode Extension** | 完全自动 | ✅ 已发布 | [用户指南](vscode-extension/USER_GUIDE.md) \| [User Guide (EN)](vscode-extension/USER_GUIDE_EN.md) |
 | **规则文件方案** | 半自动 | ✅ 可用 | [Cursor](examples/cursor-example/) \| [Windsurf](examples/windsurf-example/) \| [Kiro](examples/kiro-example/) |
 
 📖 [平台详细对比](docs/user-guide/PLATFORM_SUPPORT.md)
