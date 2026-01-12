@@ -114,7 +114,7 @@ codex init
 
 **完全自动化方案** - 已发布到 VSCode 市场
 
-**插件名称**: `Project Multi-level Index`
+**插件名称**: `Project Multi-level Index` (发布者: SwiftScript)
 
 **安装地址**: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=SwiftScript.project-multilevel-index)
 
