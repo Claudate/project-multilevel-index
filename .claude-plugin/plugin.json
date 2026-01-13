@@ -31,6 +31,7 @@
   "commands": [
     "./commands/init-index.md",
     "./commands/update-index.md",
-    "./commands/check-index.md"
+    "./commands/check-index.md",
+    "./commands/set-language.md"
   ]
 }
